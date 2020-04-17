@@ -4,8 +4,8 @@
 
 一共需要两个安装包：
 
-1. `fcgi-2.4.1-SNAP-0910052249.tar.gz`
-2. `spawn-fcgi-1.6.4.tar.gz`
+- `fcgi-2.4.1-SNAP-0910052249.tar.gz`
+- `spawn-fcgi-1.6.4.tar.gz`
 
 主要是`fcgi-2.4.1-SNAP-0910052249.tar.gz`安装过程有一点小坑。
 
@@ -24,7 +24,7 @@ vim libfcgi/fcgio.cpp
 
 然后在头文件的位置添加`#include <stdio.h>`，保存退出。添加这个的目的是因为直接执行`./configure`会报错，说`EOF`没有在该工作空间定义。在头文件`stdio.h`中有对宏`EOF`的定义，所以在`fcgio.c`中添加该头文件即可。错误如下：
 
-![](C:\Users\lizhijun\Desktop\博客文章\fastCGI安装教程\1.png)
+![](https://user-images.githubusercontent.com/30982520/79546854-b0b84380-80c5-11ea-9c6a-e05edb77a6d9.png)
 
 3. 执行配置文件并make安装
 
