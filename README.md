@@ -12,5 +12,7 @@
 主要包含wifi direct即wifi p2p相关的协议标准。
 - Wi-Fi_Direct.pdf，WiFi Direct: wifi p2p connection的ppt
 - wifi_direct_1.pdf，DEVICE-TO-DEVICE COMMUNICATIONS WITH WIFI DIRECT: OVERVIEW AND EXPERIMENTATION论文
-- wifi_direct_2.pdf，Wi-Fi Peer-to-Peer (P2P) Technical Specification Version 1.5协议标准
+- wifi_direct_2.pdf，Wi-Fi Peer-to-Peer (P2P) Technical Specification Version 1.5，2014年
+- wifi_direct_3.pdf，Wi-Fi Direct Specification v1.9，2021年
+- Wi-Fi_Display_Technical_Specification_v2.1_0.pdf，2017年
 
