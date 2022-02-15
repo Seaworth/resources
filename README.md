@@ -6,7 +6,8 @@
 - Computer Systems: A Programmer's Perspective - **CSAPP**，第三版，**豆瓣评分9.7**
   - [英文第三版](https://github.com/Seaworth/resources/blob/master/book/CSAPP3rd/Computer.Systems.A.Programmers.Perspective.3rd-csapp.pdf)
   - [中文电子版（《深入理解计算机系统》第 3 版）](https://hansimov.gitbook.io/csapp/)
-
+- technical-writing
+  - 如何写好一篇技术型文档？
 ## wifi_p2p
 
 主要包含wifi direct即wifi p2p相关的协议标准。
